@@ -28,6 +28,9 @@ h1, h2, h3, h4, h5, h6, span, p, ul, li, a, label {
 	padding:0;
 	list-style:none;
 }
+.logo{
+    width: 500px ;
+}
 .form-control:focus, .custom-file-label {
 	border: none!important;
 }
